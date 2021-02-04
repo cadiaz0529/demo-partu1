@@ -1,0 +1,88 @@
+{
+    "messages":[
+        {
+            "property":"algo",
+            "message":"¿Algo más en lo que le podamos ayudar?"
+        },
+        {
+            "property":"ayudar",
+            "message":"¿En qué le podemos ayudar?"
+        },
+        {
+            "property":"cedula",
+            "message":"¿Cuál es su número y tipo de identificación?"
+        },
+        {
+            "property":"continua",
+            "message":"¿Continúa  en línea?"
+        },
+        {
+            "property":"contrato",
+            "message":"Por favor indique el número de contrato del servicio de gas natural. Lo podrá encontrar en un cuadro verde en la parte superior de la factura."
+        },
+        {
+            "property":"covid",
+            "message":"Agradecemos su compromiso de permanecer en casa y utilizar este medio para contactarnos. En Gases del Caribe estamos trabajando para mantener la prestación del  servicio de manera ininterrumpida y contamos con el apoyo de todos los usuarios que puedan realizar el pago, para seguirlo haciendo."
+        },
+        {
+            "property":"datos",
+            "message":"Por favor suministrar la siguiente información:\n- Número de contrato\n- Nombre y Apellido\n- Documento de identidad\n- Teléfono de contacto"
+        },
+        {
+            "property":"duplicado",
+            "message":"Para obtener un cupón de pago por el mes actual o el mes anterior deberá ingresar a https://portal.gascaribe.com/ y seguir los pasos:\n 1. Escoger la opción: Genera y paga un duplicado. \n 2. Ingrese un número de contrato y valide la dirección del predio."
+        },
+        {
+            "property":"estamos",
+            "message":"Estamos para servirle, Gases del Caribe le ofrece múltiples servicios en línea para que los pueda realizar desde la comodidad de su casa. Que tenga un excelente resto de día."
+        },
+        {
+            "property":"factura",
+            "message":"Para consultar su factura debe ingresar a https://portal.gascaribe.com/ y seguir los pasos:\n1. Iniciar sesión o registrarse en caso de que no lo haya realizado anteriomente.\n2. Una vez haya iniciado sesión debe asociar un contrato siguiendo las instrucciones del portal. Cuando haya asociado el contrato podrá visualizar la última factura que se haya generado para este servicio de gas."
+        },
+        {
+            "property":"factura_correo",
+            "message":"Para recibir su factura por correo electrónico ingrese a https://portal.gascaribe.com/ siga los pasos:\n1. Inicie sesión, para lo cual deberá estar previamente registrado.\n2. Una vez inicie sesión deberá asociar el número de contrato del servicio de gas de su interés, y en este proceso responda SI a la pregunta: ¿Desea que le enviemos la factura mensualmente a su correo electrónico registrado?\n3. Si ya tiene asociado un contrato pero desea configurar el envío de la factura por correo electrónico deberá ingresar a la opción: Mis contratos. Y escoger la opción editar en el contrato de su interés, respondiendo SI a la pregunta ¿Desea que le enviemos la factura mensualmente a su correo electrónico registrado?"
+        },
+        {
+            "property":"gracias",
+            "message":"Gracias por su permanencia en línea."
+        },
+        {
+            "property":"horario_oficias",
+            "message":"En este link podrá encontrar la oficina más cercana a usted y su horario  de atención https://portal.gascaribe.com/closer/support"
+        },
+        {
+            "property":"interaccion",
+            "message":"El número de radicado de su solicitud es el XXXXXXXX"
+        },
+        {
+            "property":"interrupción",
+            "message":"Por favor permítame un momento, estoy validando la información en el sistema. \n En caso de generarse alguna interrupción durante la comunicación debido a fallas inesperadas en el servicio de energía y/o comunicación, le presentamos disculpas y agradecemos su comprensión, para Gases del Caribe nuestros usuarios son lo más importante."
+        },
+        {
+            "property":"medios_pago",
+            "message":"Los medios de pago disponibles en nuestro portal son:\n - Pagos por PSE a través de todas las entidades bancarias \n - Daviplata \n - Nequi\n - RappiPay"
+        },
+        {
+            "property":"pagoenportal",
+            "message":"Para cancelar su factura con número de cupón o número de contrato, siga los siguientes pasos:\n1. Ingrese a la página https://portal.gascaribe.com/\n2. Escoja la opción “paga con tu número de cupón” (Cuadro No 1- color verde) o la opción “paga con tu número de contrato” (Cuadro 2- color azul). \n3. Ingrese el número de cupón para pagos o el número de contrato correspondiente a la factura de su predio, confirme No soy un robot y presione clic en consultar.\n4. Verifique que los datos ingresados correspondan a su predio en Resultados de la consulta.\n5. Si los datos son correctos, presione clic en la opción siguiente y proceda a diligenciar la información del pago (Correo electrónico, tipo de cliente, entidad bancaria desde la cual se debitará su pago, nombre del pagador, tipo y número de identificación, número telefónico) y aceptar que se han leído/aceptado los términos y condiciones del uso y la política de privacidad. \n6. Presione clic en el botón IR A PSE, ubicado en la parte inferior derecha, y siga los pasos para efectuar el pago de su factura desde este portal virtual."
+        },
+        {
+            "property":"pqrweb",
+            "message":"Para radicar una PQR Web ingrese a https://portal.gascaribe.com/ y siga los pasos: \n 1. Inicie sesión, para lo cual deberá estar previamente registrado. \n2. Cuando inicie sesión encontrará el botón: Crear PQR.\n3. Diligencie completamente el formulario, registre su PQR y recibirá en el correo electrónico indicado en el formulario el número del radicado.\n4. ¡Recuerde que para reportes de fugas o emergencias deberá llamar a la línea 164 o 018000915334!`;"
+        },
+        {
+            "property":"pse",
+            "message":"Le informamos que en el momento la plataforma de pagos PSE está experimentando intermitencias, lo invitamos a intentar su pago en unos minutos. Agradecemos su comprensión."
+        },
+        {
+            "property":"puntos_recaudo",
+            "message":"También podrá pagar en nuestro portal en línea utilizando los siguientes medios de pago:\n- Pagos por PSE a través de todas las entidades bancarias\n- Daviplata\n- Nequi\n- RappiPay"
+        },
+        {
+            "property":"telefono",
+            "message":"¿Cuál es su número de teléfono?"
+        }
+    ]
+}

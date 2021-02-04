@@ -1,0 +1,18 @@
+{
+  "name": "plugin-gascaribot",
+  "version": "3.0.0",
+  "private": true,
+  "scripts": {
+    "postinstall": "flex-plugin pre-script-check",
+    "start": "twilio flex:plugins:start"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "flex-plugin-scripts": "^4.3.18-beta.0",
+    "react": "16.5.2",
+    "react-dom": "16.5.2"
+  },
+  "devDependencies": {
+    "@twilio/flex-ui": "^1"
+  }
+}

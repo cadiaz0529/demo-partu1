@@ -1,0 +1,64 @@
+.prueba{
+    margin: 0;
+    background-color: #ECEDF1;
+    height: 100vh;
+}
+.fast-messages-container{
+   display: grid;
+   align-items: center;
+    height: 100%;
+    margin-left: 100px;
+    
+   
+    overflow: auto;
+}
+.title{
+    text-align: center;
+    font-weight: bold;
+   margin: 20px;
+    font-size: 20px;
+}
+
+.message-container{
+    display: grid;
+    grid-template-columns: 120px 1fr;
+   align-items: center;
+    border-bottom: 2px solid #ffffff;
+    
+    margin: 10px;
+    height: 90%;
+}
+.property{
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+
+
+.text{
+    margin: 10px;
+}
+
+.testing{
+    margin-top: 11px;
+    margin-left: 30px;
+}
+.btn--transfer{
+    cursor:pointer;
+    color: white;
+    background-color: #1C76D2;
+    font-size: 11px;
+    padding: 10px 15px 10px 15px;
+    border:0;
+    border-radius: 15px;
+    outline: 0;
+}
+
+.btn--transfer:active{
+    opacity: 0.8;
+    outline: 0;
+}
+
+.upload--file--container{
+    margin-bottom: 10px;
+}
